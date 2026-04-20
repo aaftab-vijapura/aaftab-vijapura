@@ -18,6 +18,7 @@
 - 📫 How to reach me **aaftabvijapura@gmail.com**
 
 - ⚡ Fun fact **I talk to my code… and sometimes, it talks back😂.**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaftab-vijapura-6099a02ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaftab-vijapura-6099a02ab" height="30" width="40" /></a>
