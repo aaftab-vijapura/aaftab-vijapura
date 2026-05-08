@@ -1,17 +1,59 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **something awesome… but it’s a secret for now 😉**<br><br>- 🌱 I’m currently learning **something so cool, I can’t reveal it yet**<br><br>- 👯 I’m looking to collaborate on **collaborating on innovative React.js projects and modern web applications**<br><br>- 🤝 I’m looking for help with **finding creative solutions for UI/UX challenges**<br><br>- 📫 How to reach me **aaftabvijapura@gmail.com**<br><br>- ⚡ Fun fact **I talk to my code… and sometimes, it talks back😂.**
+<h1 align="center">Hey 👋, I'm Aaftab Vijapura</h1>
+<h3 align="center">Frontend Developer • React.js Enthusiast • UI/UX Lover 🚀</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=React.js+Developer+⚛️;Building+Modern+Web+Experiences+🚀;TypeScript+%7C+Next.js+%7C+Redux+Toolkit;Crafting+Responsive+and+Interactive+UI+✨;Always+Learning+Something+New+🔥" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaftab-vijapura/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaftabvijapura@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 💫 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aaftab-vijapura&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Currently building **modern and scalable web applications**
+- 🌱 Exploring **advanced frontend architecture & performance optimization**
+- 👯 Open to collaborating on **React.js & Next.js projects**
+- 🤝 Passionate about solving **UI/UX challenges**
+- ⚡ Fun fact: **I talk to my code… and sometimes, it talks back 😂**
+- 📫 Reach me at: **aaftabvijapura@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/aaftab-vijapura/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:aaftabvijapura@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
+
+---
+
+# 🚀 Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,mui,firebase,nodejs,git,github,vscode,figma,aws,vercel,netlify" />
+
+</p>
+
+---
+
+# 🧠 Currently Focused On
+
+```javascript
+const aaftab = {
+  code: ["JavaScript", "TypeScript"],
+  frontend: ["React", "Next.js", "Redux Toolkit", "Tailwind CSS"],
+  backend: ["Firebase", "REST APIs"],
+  tools: ["Git", "GitHub", "Figma", "Storybook"],
+  architecture: ["Reusable Components", "Scalable UI", "Performance"],
+  currentGoal: "Becoming a top-tier Frontend Engineer 🚀",
+};
