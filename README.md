@@ -1,18 +1,18 @@
 <div align="center">
 
-# ⚡ A A F T A B • V I J A P U R A ⚡
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Aaftab%20Vijapura&fontSize=42&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff&stroke=00F7FF&animation=fadeIn&fontAlignY=42&desc=Frontend%20Engineer%20•%20React.js%20Specialist%20•%20UI%20Engineer&descAlignY=65&descSize=18" />
+</p>
 
-### Frontend Engineer • React.js Specialist • UI Engineer
-
-<br/>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/> -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 </div>
 
 ---
 
-# 🧠 WHO AM I?
+# 🧠 ENGINEER PROFILE
 
 ```ts
 class Developer {
@@ -34,6 +34,27 @@ class Developer {
     "Modern UI Systems",
   ];
 
+  techStack = {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+    ],
+
+    stateManagement: [
+      "Redux Toolkit",
+      "React Query",
+      "Zustand",
+    ],
+
+    uiLibraries: [
+      "MUI",
+      "Chakra UI",
+      "Bootstrap",
+    ],
+  };
+
   currentFocus = "Building high-quality digital experiences 🚀";
 }
 ```
@@ -42,7 +63,7 @@ class Developer {
 
 # 🚀 CURRENT MISSION
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
 
 ### 🔭 Building
 - Scalable Frontend Applications
@@ -66,11 +87,25 @@ class Developer {
 
 # ⚔️ TECH STACK
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui,firebase,aws,git,github,figma,vercel,vscode,jest&perline=7" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,mui,html,css,firebase,aws,git,github,vercel,netlify,figma,vscode,jest" />
+---
 
-</div>
+# 📊 GITHUB OVERVIEW
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaftab-vijapura&theme=github_dark" />
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</p>
 
 ---
 
@@ -88,6 +123,21 @@ class Developer {
 
 ---
 
+# ⚡ DEVELOPMENT PRINCIPLES
+
+```txt
+✓ Clean Architecture
+✓ Reusable Components
+✓ Performance First
+✓ Scalable Systems
+✓ Pixel Perfect UI
+✓ User-Centered Design
+✓ Maintainable Codebase
+✓ Modern Frontend Engineering
+```
+
+---
+
 # 🌌 DIGITAL DNA
 
 ```yaml
@@ -102,13 +152,18 @@ Focus:
 
 Tech Philosophy:
   "Build interfaces users remember."
+
+Currently Learning:
+  - Advanced Next.js
+  - Frontend Architecture
+  - AI + UI Integrations
 ```
 
 ---
 
 # 🌐 CONNECT WITH ME
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:aaftabvijapura@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -122,17 +177,17 @@ Tech Philosophy:
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 👀 PROFILE VISITORS
 
-<div align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=aaftab-vijapura&label=Visitors&color=6C63FF&style=flat-square"/>
 
-</div>
+</p>
 
 ---
 
@@ -142,6 +197,6 @@ Tech Philosophy:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
