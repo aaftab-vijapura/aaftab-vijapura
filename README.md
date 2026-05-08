@@ -1,86 +1,161 @@
-<h1 align="center">Aaftab Vijapura</h1>
+<div align="center">
+
+# ⚡ A A F T A B • V I J A P U R A ⚡
 
 <p align="center">
-  Frontend Engineer • React.js Specialist • UI/UX Focused
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer+⚛️;React+%2F+Next.js+Specialist;Building+Scalable+Digital+Experiences;Crafting+Modern+and+Performant+UI;Code.+Create.+Innovate." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+modern+and+scalable+web+applications;Crafting+clean+UI+and+better+user+experiences;React.js+%7C+Next.js+%7C+TypeScript+%7C+Performance" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=header"/>
 </p>
+
+</div>
 
 ---
 
-## About Me
+# 🧠 WHO AM I?
 
 ```ts
-const aaftab = {
-  role: "Frontend Engineer",
-  focus: [
-    "Scalable Frontend Architecture",
-    "Reusable Component Systems",
+class Developer {
+  name = "Aaftab Vijapura";
+
+  role = "Frontend Engineer";
+
+  specialization = [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "UI Engineering",
+  ];
+
+  strengths = [
+    "Scalable Architecture",
+    "Reusable Components",
     "Performance Optimization",
-    "Modern UI Engineering",
-  ],
+    "Modern UI Systems",
+  ];
 
-  tech: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    styling: ["Tailwind CSS", "MUI", "Chakra UI"],
-    stateManagement: ["Redux Toolkit", "React Query"],
-    tools: ["Git", "GitHub", "Figma", "Storybook"],
-  },
-
-  currentGoal: "Building high-quality digital experiences",
-};
+  currentFocus = "Building high-quality digital experiences 🚀";
+}
 ```
 
 ---
 
-## Tech Stack
+# 🚀 CURRENT MISSION
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,mui,firebase,git,github,figma,aws,vercel,vscode" />
-</p>
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
----
+### 🔭 Building
+- Scalable Frontend Applications
+- Reusable Component Libraries
+- Performance Optimized Interfaces
+- Clean UI/UX Systems
 
-## GitHub Analytics
+### 🌱 Exploring
+- Advanced Next.js Patterns
+- Server Components
+- Frontend Architecture
+- AI + Frontend Integrations
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF" />
+### ⚡ Engineering Philosophy
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff" />
-</p>
+> “Great products are built with clean architecture and thoughtful UI.”
 
----
-
-## Experience & Interests
-
-- Building responsive and scalable frontend applications
-- Creating reusable and maintainable UI systems
-- Optimizing application performance and UX
-- Exploring advanced React and Next.js patterns
-- Interested in modern product engineering
+<br clear="right"/>
 
 ---
 
-## Connect
+# ⚔️ TECH STACK
 
-<p align="left">
-  <a href="mailto:aaftabvijapura@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/in/aaftab-vijapura/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,mui,html,css,firebase,aws,git,github,vercel,netlify,figma,vscode,jest" />
 
-  <a href="https://github.com/aaftab-vijapura">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=6C63FF&section=footer"/>
-</p>
+# 🛠️ ENGINEERING TOOLBOX
+
+| Category | Technologies |
+|---|---|
+| 🎨 Frontend | React.js, Next.js, TypeScript, Tailwind CSS |
+| ⚡ State Management | Redux Toolkit, React Query, Zustand |
+| 🧩 UI Libraries | MUI, Chakra UI, Bootstrap |
+| 🔥 Backend Services | Firebase, REST APIs |
+| 🚀 Deployment | Vercel, Netlify, AWS |
+| 🧪 Testing | Jest, React Testing Library |
+| 🎯 Design Systems | Figma, Storybook |
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🌌 DIGITAL DNA
+
+```yaml
+Name: Aaftab Vijapura
+Role: Frontend Engineer
+
+Focus:
+  - Scalable Frontend Systems
+  - Performance Optimization
+  - Reusable UI Components
+  - Modern Web Experiences
+
+Tech Philosophy:
+  "Build interfaces users remember."
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:aaftabvijapura@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aaftab-vijapura/">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aaftab-vijapura">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 PROFILE VISITORS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aaftab-vijapura&label=Visitors&color=6C63FF&style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Clean Code. Thoughtful UI. Better Experiences." ⚡
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
