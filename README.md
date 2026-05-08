@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/> -->
 
 </div>
 
@@ -85,18 +85,6 @@ class Developer {
 | 🚀 Deployment | Vercel, Netlify, AWS |
 | 🧪 Testing | Jest, React Testing Library |
 | 🎯 Design Systems | Figma, Storybook |
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
 
 ---
 
