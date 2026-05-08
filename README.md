@@ -1,86 +1,192 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hey!+I'm+Aaftab+Vijapura;React+%26+Next.js+Architect;UI/UX+Performance+Expert;Open+Source+Contributor;GitHub+Master+%F0%9F%94%A5" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaftab-vijapura&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# ⚡ A A F T A B • V I J A P U R A ⚡
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=1000&lines=Frontend+Engineer+⚛️;React+%2F+Next.js+Specialist+🚀;Building+Scalable+Digital+Experiences;Crafting+Pixel+Perfect+Interfaces+✨;Turning+Coffee+☕+Into+Production+Code;Code.+Create.+Innovate.+Repeat." />
 
-## 🧙‍♂️ About Me – The Short Version
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d4aa0b6-8b5c-4e6e-bc7b-2f5b8b9d7b6b.gif" width="100%" />
 
-> “I don’t just write code. I architect experiences.”
-
-- 🔭 Currently building: **a stealth-mode startup product** (NDA locked 🔒)  
-- 🧠 Learning: **advanced Next.js patterns + System Design**  
-- 🤝 Looking to collab on: **high-performance React apps, design systems, and open-source tools**  
-- 🎯 2026 goal: **become a GitHub Star ⭐**  
-- 💬 Ask me about: **React internals, rendering optimization, or why I left Redux for Zustand 😄**  
-- ⚡ Fun fact: My terminal has a pet dragon 🐉 (okay, it’s just an alias, but still cool)
+</div>
 
 ---
 
-## 🎨 Tech Arsenal – The Real Stack
+# 🧠 WHO AM I?
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,figma,git,github,vscode,jest,aws" />
-</p>
+```ts
+class Developer {
+  name = "Aaftab Vijapura";
+  role = "Frontend Engineer";
+  specialization = [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "UI Engineering",
+  ];
 
-| Frontend               | Backend / Services       | Dev Tools & Testing       |
-|------------------------|--------------------------|---------------------------|
-| React 18 / Next.js 14  | Firebase / Appwrite      | Jest + RTL               |
-| TypeScript             | AWS (S3, CloudFront)     | Storybook                |
-| Tailwind / MUI / Chakra| Vercel / Netlify         | Git / GitHub Actions     |
-| React Query / Zustand  | Cloudflare Workers       | Figma / Framer           |
+  mindset() {
+    return [
+      "Clean Code",
+      "Scalable Architecture",
+      "Performance Optimization",
+      "Reusable Components",
+      "Beautiful User Experience",
+    ];
+  }
 
----
-
-## 📈 GitHub Stats – No Filters, Just Code
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaftab-vijapura&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-## 🐙 Contribution Graph – Like a Work of Art
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaftab-vijapura&bg_color=0D1117&color=3B82F6&line=38B2AC&point=FFFFFF&area=true&hide_border=true" />
-</p>
+  currentStatus = "Building something legendary 🚀";
+}
+```
 
 ---
 
-## 🧠 Random Dev Wisdom – For the Late Night Coders
+# 🚀 CURRENT MISSION
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🔭 Working On
+- Scalable Frontend Architectures
+- Reusable Component Systems
+- Advanced React Patterns
+- Performance Focused UI
+
+### 🌱 Exploring
+- Server Components
+- Next.js Internals
+- System Design
+- AI + Frontend Integrations
+
+### ⚡ Philosophy
+> “Great UI is invisible. Users should feel it, not notice it.”
+
+<br clear="right"/>
 
 ---
 
-## 📫 Connect Like a Pro
+# ⚔️ TECH ARSENAL
 
-<p align="center">
-  <a href="mailto:aaftabvijapura@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aaftab-vijapura/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aaftab-vijapura">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,mui,html,css,firebase,aws,git,github,vercel,netlify,figma,vscode,jest" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+# 🛠️ ENGINEERING TOOLBOX
+
+| Category | Technologies |
+|---|---|
+| 🎨 Frontend | React.js, Next.js, TypeScript, Tailwind CSS |
+| ⚡ State Management | Redux Toolkit, Zustand, React Query |
+| 🧩 UI Libraries | MUI, Chakra UI, Bootstrap |
+| 🔥 Backend Services | Firebase, REST APIs |
+| 🚀 Deployment | Vercel, Netlify, AWS |
+| 🧪 Testing | Jest, React Testing Library |
+| 🎯 Design | Figma, Storybook |
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaftab-vijapura&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+![snake gif](https://github.com/aaftab-vijapura/aaftab-vijapura/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🧠 DEVELOPER QUOTES
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌌 DIGITAL DNA
+
+```yaml
+Name: Aaftab Vijapura
+Location: India 🇮🇳
+Role: Frontend Engineer
+Focus: Building scalable and immersive web experiences
+Loves:
+  - Clean UI
+  - Fast Performance
+  - Dark Mode 🌙
+  - React Ecosystem ⚛️
+
+Life Motto:
+  "Build things that people remember."
+```
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aaftab-vijapura&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:aaftabvijapura@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aaftab-vijapura/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aaftab-vijapura">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👀 PROFILE VISITORS
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aaftab-vijapura&label=Visitors&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ "Code Hard. Stay Humble. Build Legendary Things." ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=170&section=footer"/>
+
+</div>
