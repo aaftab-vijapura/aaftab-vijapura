@@ -2,13 +2,11 @@
 
 # ⚡ A A F T A B • V I J A P U R A ⚡
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer+⚛️;React+%2F+Next.js+Specialist;Building+Scalable+Digital+Experiences;Crafting+Modern+and+Performant+UI;Code.+Create.+Innovate." />
-</p>
+### Frontend Engineer • React.js Specialist • UI Engineer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=header"/>
-</p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=header"/>
 
 </div>
 
@@ -44,7 +42,7 @@ class Developer {
 
 # 🚀 CURRENT MISSION
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ### 🔭 Building
 - Scalable Frontend Applications
@@ -94,9 +92,9 @@ class Developer {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aaftab-vijapura&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaftab-vijapura&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -156,6 +154,6 @@ Tech Philosophy:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
 
 </div>
