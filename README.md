@@ -11,7 +11,6 @@
 </div>
 
 ---
-
 # :brain: WHO AM I?
 
 ```ts
