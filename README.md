@@ -14,7 +14,6 @@
 
 # :brain: WHO AM I?
 
-
 ```ts
 class Developer {
   name = "Aaftab Vijapura";
