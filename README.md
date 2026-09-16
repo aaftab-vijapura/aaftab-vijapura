@@ -20,7 +20,6 @@ class Developer {
 
   role = "Frontend Engineer";
 
-
   specialization = [
     "React.js",
     "Next.js",
