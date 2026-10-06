@@ -115,7 +115,7 @@ Tech Philosophy:
 </a>
 
 <a href="https://aaftab.is-a.dev">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6C63FF?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aaftab-vijapura/">
